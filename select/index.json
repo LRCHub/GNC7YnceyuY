@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Shine Like A Star",
+  "base_artist": "Army Of Lovers",
+  "createdAt": "2025-12-19T21:06:19.341303Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shine Like a Star",
+      "artist": "Berri",
+      "has_synced": false,
+      "path": "select/01_Shine_Like_a_Star_Berri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shine Like a Star",
+      "artist": "Prettyxix",
+      "has_synced": false,
+      "path": "select/02_Shine_Like_a_Star_Prettyxix.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shine Like A Star",
+      "artist": "Army Of Lovers",
+      "has_synced": true,
+      "path": "select/03_Shine_Like_A_Star_Army_Of_Lovers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shine Like a Star",
+      "artist": "Berri",
+      "has_synced": false,
+      "path": "select/04_Shine_Like_a_Star_Berri.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shine Like a Star",
+      "artist": "DUALBOX",
+      "has_synced": false,
+      "path": "select/05_Shine_Like_a_Star_DUALBOX.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shine Like A Star",
+      "artist": "Xavier Naidoo",
+      "has_synced": true,
+      "path": "select/06_Shine_Like_A_Star_Xavier_Naidoo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shine Like a Star (Dancin' Divaz mix)",
+      "artist": "Berri",
+      "has_synced": false,
+      "path": "select/07_Shine_Like_a_Star_(Dancin'_Divaz_mix)_Berri.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shine Like A Star",
+      "artist": "Army Of Lovers",
+      "has_synced": false,
+      "path": "select/08_Shine_Like_A_Star_Army_Of_Lovers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shine Like A Star",
+      "artist": "Army of Loverd",
+      "has_synced": true,
+      "path": "select/09_Shine_Like_A_Star_Army_of_Loverd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shine Like a Star",
+      "artist": "Sondia",
+      "has_synced": true,
+      "path": "select/10_Shine_Like_a_Star_Sondia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shine Like a New Pin",
+      "artist": "Camera Obscura",
+      "has_synced": true,
+      "path": "select/11_Shine_Like_a_New_Pin_Camera_Obscura.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shine Like A New Pin",
+      "artist": "Camera Obscura (Scotland)",
+      "has_synced": true,
+      "path": "select/12_Shine_Like_A_New_Pin_Camera_Obscura_(Scotland).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shine like a diamond",
+      "artist": "Elisa Rosselli",
+      "has_synced": true,
+      "path": "select/13_Shine_like_a_diamond_Elisa_Rosselli.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shine Like a New Pin",
+      "artist": "Camera Obscura",
+      "has_synced": true,
+      "path": "select/14_Shine_Like_a_New_Pin_Camera_Obscura.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shine Like A Superstar",
+      "artist": "Tata Young",
+      "has_synced": true,
+      "path": "select/15_Shine_Like_A_Superstar_Tata_Young.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shine Like A New Pin",
+      "artist": "Camera Obscura",
+      "has_synced": false,
+      "path": "select/16_Shine_Like_A_New_Pin_Camera_Obscura.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shine Like A Friend",
+      "artist": "John Calvin Abney",
+      "has_synced": false,
+      "path": "select/17_Shine_Like_A_Friend_John_Calvin_Abney.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shine Like A Star",
+      "artist": "Army Of Lovers",
+      "has_synced": false,
+      "path": "select/pl_01_Shine_Like_A_Star_Army_Of_Lovers.txt"
+    }
+  ]
+}
